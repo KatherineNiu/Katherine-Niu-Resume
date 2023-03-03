@@ -4,6 +4,7 @@
   <el-icon>
     <i-ep-full-screen></i-ep-full-screen>
   </el-icon>
+  <el-button type="warning">Warning</el-button>
 </template>
 
 <script setup>
